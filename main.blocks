@@ -1,4 +1,16 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="n})w.:~05W;f`ShJob-m" x="0" y="0"></block><block type="device_forever" id="NiQm%[mb*[3WcUaZ+!v_" x="546" y="-10"><statement name="HANDLER"><block type="basic_show_icon" id="mdc84wfhlg|?+K,r06EN"><field name="i">IconNames.Square</field><next><block type="basic_show_icon" id="F0Kx*bB33_dbR}u^Z[P7"><field name="i">IconNames.SmallSquare</field><next><block type="device_show_leds" id="HKKK$3;,~sXyQ+q6M|J;"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="n})w.:~05W;f`ShJob-m" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="1R2DZ_v;jO~ZJ198=oAg"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="music_playable_play_default_bkg" id="`@pFg9^:uwX+S|)5C|z6"><field name="playbackMode">music.PlaybackMode.InBackground</field><value name="toPlay"><shadow type="device_builtin_melody_playable" id=".]=K}--Tfy44Btp0[rzs"><field name="melody">Melodies.Dadadadum</field></shadow></value><next><block type="device_show_leds" id="canDBo!m`|)Gk?,4r::T"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="2_g#Q{swzc4@[mZg{kx."><value name="pause"><shadow type="timePicker" id="Q^x-}n.onGJsZN~s0{^T"><field name="ms">3000</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="NiQm%[mb*[3WcUaZ+!v_" x="546" y="-10"><statement name="HANDLER"><block type="basic_show_icon" id="mdc84wfhlg|?+K,r06EN"><field name="i">IconNames.Square</field><next><block type="basic_show_icon" id="F0Kx*bB33_dbR}u^Z[P7"><field name="i">IconNames.SmallSquare</field><next><block type="device_show_leds" id="HKKK$3;,~sXyQ+q6M|J;"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . # . . 
